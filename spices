@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="sample.css">
+</head>
+<body>
+    <div class="container">
+        <div class="galary">
+        <h1>photo galary</h1>
+    </div>
+        <div class="row">
+        <div class="col">
+    <img src="https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg" width="270px" height="270px" alt="">
+    <img src="https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg" width="270px" height="270px" alt="">
+    <img src="https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg" width="270px" height="270px" alt="">
+</div>
+<div class="col">
+    <img src="https://cdn.pixabay.com/photo/2024/06/20/17/03/fishing-8842590_1280.jpg" width="270px" height="270px" alt="">
+    <img src="https://cdn.pixabay.com/photo/2024/06/20/17/03/fishing-8842590_1280.jpg" width="270px" height="270px" alt="">
+    <img src="https://cdn.pixabay.com/photo/2024/06/20/17/03/fishing-8842590_1280.jpg" width="270px" height="270px" alt="">
+</div>
+<div class="col">
+    <img src="https://cdn.pixabay.com/photo/2024/02/09/13/03/beach-8563083_1280.jpg" width="270px" height="270px" alt="">
+    <img src="https://cdn.pixabay.com/photo/2024/02/09/13/03/beach-8563083_1280.jpg" width="270px" height="270px" alt="">
+    <img src="https://cdn.pixabay.com/photo/2024/02/09/13/03/beach-8563083_1280.jpg" width="270px" height="270px" alt="">
+</div>
+</div>
+<button>Loadmore</button>
+</div>
+
+</body>
+</html>
+
+
