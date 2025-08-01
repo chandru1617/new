@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+    <link rel="stylesheet" href="portfolio.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="h1">
+                Chandru
+            </h1>
+        </div>
+
+        <div class="container2">
+         <nav class="navbar">
+               <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About me</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#myself">Myelf</a></li>
+                <li><a href="#contact">Contact</a></li>
+               </ul>    
+         </nav>
+    </div>
+</header>
+    
+    <img src="WhatsApp Image 2024-10-13 at 3.35.01 AM.jpeg" width="700px">
+
+    <div class="content">
+        <h1>My <br><span>Portfolio</span></h1>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde perferendis reprehenderit repellendus, voluptatem dignissimos consequuntur sequi? Id reprehenderit alias ipsa mollitia aliquam, vel eligendi tempore rerum beatae architecto fugit sapiente?
+        </p>
+    </div>
+
+    <div class="butt">
+        <button class="btn">Explore now</button>
+    </div>
+
+    <!-- about me -->
+
+    <main class="2">
+        <div class="container3">
+            <img class="image1" src="WhatsApp Image 2025-07-31 at 3.48.22 PM.jpeg" width="450px">
+            <img class="image2" src="WhatsApp Image 2025-08-01 at 10.23.11 AM.jpeg" width="450px">
+            <!-- <img src="" alt=""> -->
+        </div>
+
+        <div class="quotes">
+            <h1 class="abt">About Me</h1>
+            <div class="quotes2">
+                <h4>My vision :</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero nostrum cupiditate saepe molestias illo rerum. Ratione quo nam doloribus esse, totam non quia, dolor, assumenda ut id reiciendis voluptas nesciunt?</p>
+                <h4>My mission :</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque laboriosam, magnam omnis aspernatur harum provident quae perferendis aperiam debitis. Deserunt dignissimos nam sit velit natus culpa quisquam atque obcaecati eos!</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- SKILLS -->
+
+    <div class="skill">
+
+        <h1 class="big">SKILLS</h1>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>PYTHON</li>
+            <li>JAVASCRIPT</li>
+        </ul>
+    </div>
+
+    
+    <div class="ime">
+        <img src="images/html5.png" width="100px">
+        <img src="images/css3.png" width="100px">
+        <img src="images/photoshop.png" width="100px">
+        <img src="images/javascript.png" width="100px">
+    </div>
+
+    <!-- CONTACT -->
+
+    <div class="hole">
+    <div class="contact">
+        <h1>Contact</h1>
+    </div>
+    <div class="box">
+            <label for="">Name</label>
+            <input type="text" name="Name" placeholder="Enter Your Name :">
+            <br>
+            <br>
+            <label for="">E-mail</label>
+            <input type="email" name="email" placeholder="Enter your E-mail :">
+            <br>
+            <br>
+            <label for="">Contact Number</label>
+            <input type="text" name="number" placeholder="Enter your number :">
+            <br>
+            <br>
+    </div>
+    <div class="box1">
+        <label for="">Message area</label>
+        <textarea name="text" name="text" placeholder="Your Message :"></textarea>
+    </div>
+    <br>
+    <!-- <br> -->
+
+    <button class="btn1">Send Message</button>
+</div>
+
+<div class="txtt">
+<h1 class="txt">FEEL</h1>
+<h1 class="txt1">FREE</h1>
+<h1 class="txt2">TO</h1>
+<h1 class="txt3">CONTACT</h1>
+</div>
+
+
+    <!-- FOOTER -->
+     <footer class="end">
+        <div class="foot">
+            <h1>CHANDRU</h1>
+            <div class="privacy">
+                <a href="https://www.linkedin.com/in/chandru-v-m-6b6b52252" class="policy">LINKED IN</a>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
