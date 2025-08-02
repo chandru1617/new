@@ -1,0 +1,232 @@
+body{
+    background-color: rgba(0, 0, 0, 0.889);
+}
+
+header{
+    background-color: grey;
+    margin-top: -20px;
+    position:sticky;
+    border: 1px solid;
+}
+ img{
+    position: relative;
+    margin-top: -0.7px;
+ }
+
+ .container > h1{
+    position: relative;
+    top: 10px;
+ }
+.container2{
+    background-position: center;
+    margin-top: -50px;
+}
+
+.container2 > nav > ul{
+    text-align: right; 
+    padding-right: 60px;     
+}
+
+.container2 > nav > ul >li{
+    display: inline-block;
+    margin: 10px 20px;
+}
+
+.container2 > nav > ul >li > a{
+    /* color: #fff; */
+    text-decoration: none;
+    color: black;
+}
+
+
+.content {
+    max-width: 600px;
+    /* border: 2px solid black; */
+    position: relative;
+    left: 800px;
+    margin-top: -500px;
+  }
+
+  .content > h1{
+    font-weight: 3000;
+    font-size: 100px;
+    color: white;
+  }
+
+  .content > p{
+    margin-top: -30px;
+    color: white;
+  }
+
+  .butt{
+    position: relative;
+    left: 800px;
+    top: 30px;
+  }
+  .butt > button:hover{
+    width: 300px;
+  }
+
+  .butt > button{
+    border: 2px solid black;
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 10px;
+    /* background-color: white; */
+    transition: width 2s ease-in-out;
+  }
+
+  .container3{
+    position: relative;
+    margin-top: 100px;
+  }
+
+ .container3 > .image2{
+    /* border: 2px solid white; */
+    position: relative;
+    margin-left: 500px;
+    transition: border 1s ease-in;
+  }
+
+  .container3 > .image2:hover{
+    border: 5px solid white;
+  }
+  
+  .container3 > .image1{
+    position: relative;
+    transition: border 1s ease-out;    
+  }
+
+  .container3 > .image1:hover{
+    border: 5px solid white;
+  }
+
+  /* .quotes{
+    position: relative;
+    color: white;
+    margin-left: 500px;
+    margin-top: -500px;
+  } */
+
+  .quotes > .abt{
+    position: relative;
+    font-weight: 2000px;
+    /* border: 2px solid white; */
+    margin-left: 540px;
+    top: -600px;
+    color: white;
+    font-size: 70px;
+  }
+
+  .quotes2{
+    color: white;
+    margin-left: 490px;
+    margin-top: -550px;
+  }
+
+  .quotes2 > h4{
+    font-weight: 300px;
+    font-size: 30px;
+  }
+  
+  .quotes2 > p{
+    width: 400px;
+  }
+
+  .big{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .skill > ul{
+    text-align: center;
+  }
+
+  .skill > ul > li{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    margin: 10px 20px;
+    margin-top: 50px;
+  }
+
+  .ime{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin: 10px 20px; */
+    margin-top: 50px;
+  }
+
+ .hole{
+  margin-left: 1000px;
+  color: white;
+ }
+
+ .box > input{
+  padding: 15px;
+  width: 350px;
+  border-radius: 5px;
+ }
+
+ .box1 textarea{
+  padding: 30px;
+  width: 350px;
+  height: 100px;
+  border-radius: 5px;
+  font-size: large;
+ }
+
+ .btn1{
+  font-size: 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+  width: 300px;
+  background-color: gray;
+  margin-left: 50px;
+ }
+
+ .txtt{
+  color: white;
+  margin-top: -530px;
+ }
+
+ .txtt > .txt{
+  font-size: 150px;
+  margin-top: -50px;
+ }
+
+ .txtt > .txt1{
+  font-size: 100px;
+  margin-top: -80px;
+ }
+
+ .txtt > .txt2{
+  font-size: 50px;
+  margin-top: -50px;
+ }
+
+ .txtt > .txt3{
+  font-size: 100px;
+  margin-top: -10px;
+  color: skyblue;
+ }
+
+ /* footer */
+
+ .end{
+  background-color: grey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
+
+.policy{
+  color: white;
+  margin-left: 40px;
+ }
